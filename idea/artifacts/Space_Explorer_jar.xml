@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Space Explorer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Space_Explorer_jar</output-path>
+    <root id="archive" name="Space Explorer_jar.jar">
+      <element id="module-output" name="Space Explorer" />
+    </root>
+  </artifact>
+</component>
